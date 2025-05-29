@@ -12,7 +12,7 @@ ranged_type('Ashe', ranged).
 ranged_type('Aurelion Sol', ranged).
 ranged_type('Aurora', ranged).
 ranged_type('Azir', ranged).
-ranged_type('Bardo', ranged).
+ranged_type('Bard', ranged).
 ranged_type('BelVeth', melee).
 ranged_type('Blitzcrank', melee).
 ranged_type('Brand', ranged).
@@ -30,7 +30,7 @@ ranged_type('Draven', ranged).
 ranged_type('Ekko', melee).
 ranged_type('Elise', melee).
 ranged_type('Elise', ranged).
-ranged_type('Evelyn', melee).
+ranged_type('Evelynn', melee).
 ranged_type('Ezreal', ranged).
 ranged_type('Fiddlesticks', ranged).
 ranged_type('Fiora', melee).
@@ -55,8 +55,8 @@ ranged_type('Jax', melee).
 ranged_type('Jayce', melee).
 ranged_type('Jayce', ranged).
 ranged_type('Jhin', ranged).
-ranged_type('jinx', ranged).
-ranged_type('Ksante', melee).
+ranged_type('Jinx', ranged).
+ranged_type('KSante', melee).
 ranged_type('Kaisa', ranged).
 ranged_type('Kalista', ranged).
 ranged_type('Karma', ranged).
@@ -74,7 +74,7 @@ ranged_type('KogMaw', ranged).
 ranged_type('Leblanc', ranged).
 ranged_type('Lee Sin', melee).
 ranged_type('Leona', melee).
-ranged_type('Lilia', melee).
+ranged_type('Lillia', melee).
 ranged_type('Lissandra', ranged).
 ranged_type('Lucian', ranged).
 ranged_type('Lulu', ranged).
@@ -100,8 +100,8 @@ ranged_type('Nocturne', melee).
 ranged_type('Nunu e Willump', melee).
 ranged_type('Olaf', melee).
 ranged_type('Orianna', ranged).
-ranged_type('Ornm', melee).
-ranged_type('Pantheom', melee).
+ranged_type('Ornn', melee).
+ranged_type('Pantheon', melee).
 ranged_type('Poppy', melee).
 ranged_type('Pyke', melee).
 ranged_type('Qiyana', melee).
@@ -157,7 +157,7 @@ ranged_type('Viego', melee).
 ranged_type('Viktor', ranged).
 ranged_type('Vladimir', ranged).
 ranged_type('Volibear', melee).
-ranged_type('Warwrick', melee).
+ranged_type('Warwick', melee).
 ranged_type('Wukong', melee).
 ranged_type('Xayah', ranged).
 ranged_type('Xerath', ranged).
@@ -165,11 +165,11 @@ ranged_type('XinZhao', melee).
 ranged_type('Yasuo', melee).
 ranged_type('Yone', melee).
 ranged_type('Yorick', melee).
-ranged_type('Yummi', ranged).
+ranged_type('Yuumi', ranged).
 ranged_type('Zac', melee).
 ranged_type('Zed', melee).
 ranged_type('Zeri', ranged).
-ranged_type('Zigs', ranged).
+ranged_type('Ziggs', ranged).
 ranged_type('Zilean', ranged).
 ranged_type('Zoe', ranged).
 ranged_type('Zyra', ranged).
