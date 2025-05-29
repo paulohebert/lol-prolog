@@ -2,7 +2,7 @@ atributo('Tomo amplificador', ap).
 atributo('Espada G.p.C', ad).
 atributo('Varinha explosiva', ap).
 atributo('Manto da Agilidade', ad).
-atributo('Manto de armadura', tank).
+atributo('Couraça de Pano', tank).
 atributo('Adaga', ad).
 atributo('Lágrima da Deusa', ap).
 atributo('Amuleto da Fada', ap).
@@ -26,7 +26,7 @@ atributo('Bandeira Verdejante', tank).
 atributo('Brasa de Bami', tank).
 atributo('Braçadeira Cristalina', tank).
 atributo('Broquel Glacial', tank).
-atributo('Capa Megatron', tank).
+atributo('Capa Negatron', tank).
 atributo('Capítulo Perdido', ap).
 atributo('Capuz do espectro',tank).
 atributo('Carapaça do Vigia', tank).
@@ -34,7 +34,7 @@ atributo('Catalisador das eras', ap).
 atributo('Cetro Vampírico', ad).
 atributo('Chamado do Carrasco', ad).
 atributo('Cintilação Etérea', ap).
-atributo('Cinto Gigante', tank).
+atributo('Cinto do Gigante', tank).
 atributo('Colete Espinhoso', tank).
 atributo('Cota de Malha', tank).
 atributo('Couraça Lunar Alada', tank).
@@ -66,19 +66,19 @@ atributo('Zelo', ad).
 atributo('Máscara Assustadora', ap).
 atributo('Hexdrinker', ad).
 atributo('Brutalizador', ad).
-atributo('Último Susurro', ad).
+atributo('Último Sussurro', ad).
 atributo('Ladrão de almas de Mejai', ap).
 atributo('Hino Bélico de Shurelya', suport).
-atributo('Converjência de Zeke', tank).
-atributo('Medalão dos Solari de Ferro', suport).
+atributo('Convergência de Zeke', tank).
+atributo('Medalhão dos Solari de Ferro', suport).
 atributo('Turíbulo Ardente', suport).
-atributo('Regenador de Pedra Lunar', suport).
+atributo('Regenerador de Pedra Lunar', suport).
 atributo('Ecos de Helia', suport).
 atributo('Mandato Imperial', suport).
 atributo('Cajado Aquafluxo', suport).
 atributo('Redenção', suport).
-atributo('Juramento do Cavalheiro', suport).
-atributo('Juramento do Cavalheiro', tank).
+atributo('Juramento do Cavaleiro', suport).
+atributo('Juramento do Cavaleiro', tank).
 atributo('Benção de Mikael', suport).
 atributo('Desbravador', tank).
 atributo('Aproximação Invernal', tank).
@@ -93,7 +93,7 @@ atributo('Dançarina Fantasma', ad).
 atributo('Furacão de Runaan', ad).
 atributo('Canhão Fumegante', ad).
 atributo('Explocinturão Hextec', ap).
-atributo('Adaga Oscilante Navori', ad).
+atributo('Adagas Oscilantes Navori', ad).
 atributo('Máscara Abissal', tank).
 atributo('Semblante Espiritual', tank).
 atributo('Égide de Fogo Solar', tank).
@@ -103,19 +103,15 @@ atributo('Presságio de Randuin', tank).
 atributo('Oportunidade', ad).
 atributo('Companheiro de Luden', ap).
 atributo('Desespero Eterno', tank).
-atributo('Tocha de Chamas Negras', ap).
 atributo('Limite da Razão', ad).
 atributo('Lâmina Fantasma de Youmuu', ad).
-atributo('Força da Natureza', tank).
 atributo('Ápice da Tempestade', ap).
 atributo('Resplendor Vazio', tank).
 atributo('Morellonomicon', ap).
-atributo('Rookern Lampurico', tank).
-atributo('Cajado do Arcanjo', ap).
-atributo('Manamune', ad).
+atributo('Rookern Lamúrico', tank).
 atributo('Perdição de Lich', ap).
 atributo('Dente de Nashor', ap).
-atributo('Colherdor de Essência', ad).
+atributo('Colhedor de Essência', ad).
 atributo('Couraça do Defunto', tank).
 atributo('Foco do Horizonte', ap).
 atributo('Manopla dos Glacinatas', tank).
@@ -136,17 +132,17 @@ atributo('Terminus', ad).
 atributo('Limiar da Noite', ad).
 atributo('Ímpeto Cósmico', ap).
 atributo('Tormento de Liandry', ap).
-atributo('Arco-escudo Imortal', ad).
+atributo('Arcoescudo Imortal', ad).
 atributo('A Coletora', ad).
 atributo('Rancor de Serylda', ad).
-atributo('Arco de Axioma', ad).
+atributo('Arco do Axioma', ad).
 atributo('Cicloespada Voltaica', ad).
 atributo('Lembranças do Lorde Dominik', ad).
 atributo('Armadura de Warmog', tank).
 atributo('Mandíbula de Malmórtius', ad).
 atributo('Lança de Shojin', ad).
 atributo('Criafendas', ap).
-atributo('Serraespada Quimiopunk', ad).
+atributo('Serrespada Quimiopunk', ad).
 atributo('Céu Dividido', ad).
 atributo('Mata-Cráquens', ad).
 atributo('Anjo Guardião', ad).

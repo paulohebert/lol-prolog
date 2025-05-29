@@ -6,7 +6,7 @@ range_item('Varinha explosiva', ranged).
 range_item('Varinha explosiva', melee).
 range_item('Manto da Agilidade', ranged).
 range_item('Manto da Agilidade', melee).
-range_item('Manto de armadura', melee).
+range_item('Couraça de Pano', melee).
 range_item('Adaga', ranged).
 range_item('Adaga', melee).
 range_item('Lágrima da Deusa', ranged).
@@ -40,7 +40,7 @@ range_item('Brasa de Bami', melee).
 range_item('Brasa de Bami', ranged).
 range_item('Braçadeira Cristalina', melee).
 range_item('Broquel Glacial', melee).
-range_item('Capa Megatron', melee).
+range_item('Capa Negatron', melee).
 range_item('Capítulo Perdido', ranged).
 range_item('Capítulo Perdido', melee).
 range_item('Capuz do espectro', melee).
@@ -53,7 +53,7 @@ range_item('Chamado do Carrasco', ranged).
 range_item('Chamado do Carrasco', melee).
 range_item('Cintilação Etérea', ranged).
 range_item('Cintilação Etérea', melee).
-range_item('Cinto Gigante', melee).
+range_item('Cinto do Gigante', melee).
 range_item('Colete Espinhoso', melee).
 range_item('Cota de Malha', melee).
 range_item('Couraça Lunar Alada', melee).
@@ -102,24 +102,24 @@ range_item('Hexdrinker', ranged).
 range_item('Hexdrinker', melee).
 range_item('Brutalizador', ranged).
 range_item('Brutalizador', melee).
-range_item('Último Susurro', ranged).
-range_item('Último Susurro', melee).
+range_item('Último Sussurro', ranged).
+range_item('Último Sussurro', melee).
 range_item('Ladrão de almas de Mejai', ranged).
 range_item('Ladrão de almas de Mejai', melee).
 range_item('Hino Bélico de Shurelya', ranged).
 range_item('Hino Bélico de Shurelya', melee).
-range_item('Converjência de Zeke', melee).
-range_item('Medalão dos Solari de Ferro', ranged).
-range_item('Medalão dos Solari de Ferro', melee).
+range_item('Convergência de Zeke', melee).
+range_item('Medalhão dos Solari de Ferro', ranged).
+range_item('Medalhão dos Solari de Ferro', melee).
 range_item('Turíbulo Ardente', ranged).
-range_item('Regenador de Pedra Lunar', ranged).
-range_item('Regenador de Pedra Lunar', melee).
+range_item('Regenerador de Pedra Lunar', ranged).
+range_item('Regenerador de Pedra Lunar', melee).
 range_item('Ecos de Helia', ranged).
 range_item('Mandato Imperial', ranged).
 range_item('Cajado Aquafluxo', ranged).
 range_item('Redenção', ranged).
 range_item('Redenção', melee).
-range_item('Juramento do Cavalheiro', melee).
+range_item('Juramento do Cavaleiro', melee).
 range_item('Benção de Mikael', ranged).
 range_item('Desbravador', melee).
 range_item('Aproximação Invernal', melee).
@@ -138,8 +138,8 @@ range_item('Furacão de Runaan', ranged).
 range_item('Canhão Fumegante', ranged).
 range_item('Explocinturão Hextec', ranged).
 range_item('Explocinturão Hextec', melee).
-range_item('Adaga Oscilante Navori', ranged).
-range_item('Adaga Oscilante Navori', melee).
+range_item('Adagas Oscilantes Navori', ranged).
+range_item('Adagas Oscilantes Navori', melee).
 range_item('Máscara Abissal', melee).
 range_item('Semblante Espiritual', melee).
 range_item('Égide de Fogo Solar', melee).
@@ -150,26 +150,21 @@ range_item('Presságio de Randuin', melee).
 range_item('Oportunidade', melee).
 range_item('Companheiro de Luden', ranged).
 range_item('Desespero Eterno', melee).
-range_item('Tocha de Chamas Negras', ranged).
-range_item('Tocha de Chamas Negras', melee).
 range_item('Limite da Razão', ranged).
 range_item('Limite da Razão', melee).
 range_item('Lâmina Fantasma de Youmuu', ranged).
 range_item('Lâmina Fantasma de Youmuu', melee).
-range_item('Força da Natureza', melee).
 range_item('Ápice da Tempestade', ranged).
 range_item('Resplendor Vazio', melee).
 range_item('Morellonomicon', ranged).
 range_item('Morellonomicon', melee).
-range_item('Rookern Lampurico', melee).
-range_item('Cajado do Arcanjo', ranged).
-range_item('Manamune', ad).
+range_item('Rookern Lamúrico', melee).
 range_item('Perdição de Lich', ranged).
 range_item('Perdição de Lich', melee).
 range_item('Dente de Nashor', ranged).
 range_item('Dente de Nashor', melee).
-range_item('Colherdor de Essência', ranged).
-range_item('Colherdor de Essência', melee).
+range_item('Colhedor de Essência', ranged).
+range_item('Colhedor de Essência', melee).
 range_item('Couraça do Defunto', melee).
 range_item('Foco do Horizonte', ranged).
 range_item('Manopla dos Glacinatas', melee).
@@ -199,14 +194,14 @@ range_item('Ímpeto Cósmico', ranged).
 range_item('Ímpeto Cósmico', melee).
 range_item('Tormento de Liandry', ranged).
 range_item('Tormento de Liandry', melee).
-range_item('Arco-escudo Imortal', ranged).
-range_item('Arco-escudo Imortal', meele).
+range_item('Arcoescudo Imortal', ranged).
+range_item('Arcoescudo Imortal', meele).
 range_item('A Coletora', ranged).
 range_item('A Coletora', melee).
 range_item('Rancor de Serylda', ranged).
 range_item('Rancor de Serylda', melee).
-range_item('Arco de Axioma', ranged).
-range_item('Arco de Axioma', melee).
+range_item('Arco do Axioma', ranged).
+range_item('Arco do Axioma', melee).
 range_item('Cicloespada Voltaica', ranged).
 range_item('Cicloespada Voltaica', melee).
 range_item('Lembranças do Lorde Dominik', ranged).
@@ -218,7 +213,7 @@ range_item('Lança de Shojin', ranged).
 range_item('Lança de Shojin', melee).
 range_item('Criafendas', ranged).
 range_item('Criafendas', melee).
-range_item('Serraespada Quimiopunk', melee).
+range_item('Serrespada Quimiopunk', melee).
 range_item('Céu Dividido', melee).
 range_item('Mata-Cráquens', ranged).
 range_item('Mata-Cráquens', melee).
