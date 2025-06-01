@@ -4,8 +4,8 @@ range_item('Espada G.p.C', ranged).
 range_item('Espada G.p.C', melee).
 range_item('Varinha explosiva', ranged).
 range_item('Varinha explosiva', melee).
-range_item('Manto da Agilidade', ranged).
-range_item('Manto da Agilidade', melee).
+range_item('Capa da Agilidade', ranged).
+range_item('Capa da Agilidade', melee).
 range_item('Couraça de Pano', melee).
 range_item('Adaga', ranged).
 range_item('Adaga', melee).
@@ -34,8 +34,8 @@ range_item('Armaguarda da Caçadora', ranged).
 range_item('Armaguarda da Caçadora', melee).
 range_item('Bandana de mercúrio', melee).
 range_item('Bandana de mercúrio', ranged).
-range_item('Bandeira Verdejante', ranged).
-range_item('Bandeira Verdejante', melee).
+range_item('Barreira Verdejante', ranged).
+range_item('Barreira Verdejante', melee).
 range_item('Brasa de Bami', melee).
 range_item('Brasa de Bami', ranged).
 range_item('Braçadeira Cristalina', melee).
@@ -138,8 +138,8 @@ range_item('Furacão de Runaan', ranged).
 range_item('Canhão Fumegante', ranged).
 range_item('Explocinturão Hextec', ranged).
 range_item('Explocinturão Hextec', melee).
-range_item('Adagas Oscilantes Navori', ranged).
-range_item('Adagas Oscilantes Navori', melee).
+range_item('Adaga Oscilante Navori', ranged).
+range_item('Adaga Oscilante Navori', melee).
 range_item('Máscara Abissal', melee).
 range_item('Semblante Espiritual', melee).
 range_item('Égide de Fogo Solar', melee).

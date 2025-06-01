@@ -160,7 +160,7 @@ classe('Neeko', mago).
 classe('Neeko', suporte).
 classe('Nidalee', mago).
 classe('Nidalee', assassino_ap).
-classe('Nidalee', meele).
+classe('Nidalee', mago).
 classe('Nilah', lutador_ad).
 classe('Nilah', assassino_ad).
 classe('Nocturne', lutador_ad).

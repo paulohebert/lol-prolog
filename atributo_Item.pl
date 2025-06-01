@@ -1,7 +1,7 @@
 atributo('Tomo amplificador', ap).
 atributo('Espada G.p.C', ad).
 atributo('Varinha explosiva', ap).
-atributo('Manto da Agilidade', ad).
+atributo('Capa da Agilidade', ad).
 atributo('Couraça de Pano', tank).
 atributo('Adaga', ad).
 atributo('Lágrima da Deusa', ap).
@@ -21,8 +21,8 @@ atributo('Arco Recurvo', ad).
 atributo('Armaguarda da Caçadora', ap).
 atributo('Armaguarda da Caçadora', tank).
 atributo('Bandana de mercúrio', tank).
-atributo('Bandeira Verdejante', ap).
-atributo('Bandeira Verdejante', tank).
+atributo('Barreira Verdejante', ap).
+atributo('Barreira Verdejante', tank).
 atributo('Brasa de Bami', tank).
 atributo('Braçadeira Cristalina', tank).
 atributo('Broquel Glacial', tank).
@@ -93,7 +93,7 @@ atributo('Dançarina Fantasma', ad).
 atributo('Furacão de Runaan', ad).
 atributo('Canhão Fumegante', ad).
 atributo('Explocinturão Hextec', ap).
-atributo('Adagas Oscilantes Navori', ad).
+atributo('Adaga Oscilante Navori', ad).
 atributo('Máscara Abissal', tank).
 atributo('Semblante Espiritual', tank).
 atributo('Égide de Fogo Solar', tank).

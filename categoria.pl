@@ -1,7 +1,7 @@
 categoria('Tomo amplificador', basico).
 categoria('Espada G.p.C', basico).
 categoria('Varinha explosiva', basico).
-categoria('Manto da Agilidade', basico).
+categoria('Capa da Agilidade', basico).
 categoria('Couraça de Pano', basico).
 categoria('Adaga', basico).
 categoria('Lágrima da Deusa', inicial).
@@ -19,7 +19,7 @@ categoria('Alternador Hextec', epico).
 categoria('Arco Recurvo', epico).
 categoria('Armaguarda da Caçadora', epico).
 categoria('Bandana de mercúrio', epico).
-categoria('Bandeira Verdejante', epico).
+categoria('Barreira Verdejante', epico).
 categoria('Brasa de Bami', epico).
 categoria('Braçadeira Cristalina', epico).
 categoria('Broquel Glacial', epico).
@@ -84,7 +84,7 @@ categoria('Dançarina Fantasma', lendario).
 categoria('Furacão de Runaan', lendario).
 categoria('Canhão Fumegante', lendario).
 categoria('Explocinturão Hextec', lendario).
-categoria('Adagas Oscilantes Navori', lendario).
+categoria('Adaga Oscilante Navori', lendario).
 categoria('Máscara Abissal', lendario).
 categoria('Semblante Espiritual', lendario).
 categoria('Égide de Fogo Solar', lendario).
