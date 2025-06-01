@@ -41,10 +41,6 @@ categoria('Orbe do Oblivio', epico).
 categoria('Codex Demoníaco', epico).
 categoria('Fulgor', epico).
 categoria('Espelho de Bandópolis', epico).
-categoria('Berrante do Guardião', inicial).
-categoria('Orbe do Guardião', inicial).
-categoria('Lâmina do Guardião', inicial).
-categoria('Martelo do Guardião', inicial).
 categoria('Punhal Serrilhado', epico).
 categoria('Martelo de Guerra de Caulfield', epico).
 categoria('Sigilo de aço', epico).
