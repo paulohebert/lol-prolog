@@ -2,7 +2,7 @@
 
 campeao(Nome, Classe, Ranged) :- classe(Nome, Classe), ranged_type(Nome, Ranged).
 
-item(ItemContruido, TipoItemReceita, TipoItemContruido) :-
+raridade(ItemContruido, TipoItemReceita, TipoItemContruido) :-
     categoria(ItemReceita, TipoItemReceita),
     categoria(ItemContruido, TipoItemContruido),
     receita(ItemContruido, ItemReceita).
